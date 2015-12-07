@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: e84065b73a4fd4a4cb50013df1d7d876
+timeCreated: 1449501682
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: OBV Atns
+    100004: OBV BmsEx
+    100006: OBV ClmsEx
+    100008: OBV Clngs
+    100010: OBV DrFrms
+    100012: OBV DrWds
+    100014: OBV Flrs
+    100016: OBV Rftps
+    100018: OBV RftpsD
+    100020: OBV WdsCEx
+    100022: OBV WdsCIn
+    100024: OBV WdsClr
+    100026: OBV WdsFrm
+    100028: OBV WdsOpq
+    100030: OBV WlsEx
+    100032: OBV WlsIn
+    400000: //RootNode
+    400002: OBV Atns
+    400004: OBV BmsEx
+    400006: OBV ClmsEx
+    400008: OBV Clngs
+    400010: OBV DrFrms
+    400012: OBV DrWds
+    400014: OBV Flrs
+    400016: OBV Rftps
+    400018: OBV RftpsD
+    400020: OBV WdsCEx
+    400022: OBV WdsCIn
+    400024: OBV WdsClr
+    400026: OBV WdsFrm
+    400028: OBV WdsOpq
+    400030: OBV WlsEx
+    400032: OBV WlsIn
+    2300000: OBV Atns
+    2300002: OBV BmsEx
+    2300004: OBV ClmsEx
+    2300006: OBV Clngs
+    2300008: OBV DrFrms
+    2300010: OBV DrWds
+    2300012: OBV Flrs
+    2300014: OBV Rftps
+    2300016: OBV RftpsD
+    2300018: OBV WdsCEx
+    2300020: OBV WdsCIn
+    2300022: OBV WdsClr
+    2300024: OBV WdsFrm
+    2300026: OBV WdsOpq
+    2300028: OBV WlsEx
+    2300030: OBV WlsIn
+    3300000: OBV Atns
+    3300002: OBV BmsEx
+    3300004: OBV ClmsEx
+    3300006: OBV Clngs
+    3300008: OBV DrFrms
+    3300010: OBV DrWds
+    3300012: OBV Flrs
+    3300014: OBV Rftps
+    3300016: OBV RftpsD
+    3300018: OBV WdsCEx
+    3300020: OBV WdsCIn
+    3300022: OBV WdsClr
+    3300024: OBV WdsFrm
+    3300026: OBV WdsOpq
+    3300028: OBV WlsEx
+    3300030: OBV WlsIn
+    4300000: OBV Atns
+    4300002: OBV BmsEx
+    4300004: OBV Clngs
+    4300006: OBV ClmsEx
+    4300008: OBV DrFrms
+    4300010: OBV DrWds
+    4300012: OBV Flrs
+    4300014: OBV Rftps
+    4300016: OBV RftpsD
+    4300018: OBV WlsEx
+    4300020: OBV WlsIn
+    4300022: OBV WdsClr
+    4300024: OBV WdsCEx
+    4300026: OBV WdsCIn
+    4300028: OBV WdsFrm
+    4300030: OBV WdsOpq
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
